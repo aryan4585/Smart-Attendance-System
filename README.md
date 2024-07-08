@@ -7,9 +7,7 @@ This is a smart attendance system that uses face recognition technology to autom
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Face recognition for attendance marking
