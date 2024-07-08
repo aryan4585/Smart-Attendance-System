@@ -3,7 +3,7 @@
 This is a smart attendance system that uses face recognition technology to automate the process of taking attendance. The system is implemented using Python and Firebase for database management.
 
 ## Table of Contents
-- [Features](#features)
+- [Features](##features)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
